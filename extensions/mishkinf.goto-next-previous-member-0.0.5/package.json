@@ -70,5 +70,9 @@
 		"typescript": "^2.6.1",
 		"vscode": "^1.1.21"
 	},
-	"__metadata": {}
+	"__metadata": {
+		"id": "44453743-abfb-413b-b826-9500986c9ee7",
+		"publisherDisplayName": "Mishkin Faustini",
+		"publisherId": "80a7570a-80e6-4b07-b8f5-207ba087c41d"
+	}
 }
